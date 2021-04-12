@@ -1,0 +1,70 @@
+﻿@model MailOrderMVCConsume.DTO.MemberPrescriptionDTO
+
+@{
+    ViewData["Title"] = "CreatePrescription";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("@ViewBag.Message");
+        };
+    </script>
+}
+<h1>Create Prescription</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreatePrescription">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MemberId" class="control-label">Member Id</label>
+                <input asp-for="MemberId" class="form-control" value="@ViewBag.Id" disabled/>
+                <span asp-validation-for="MemberId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InsurancePolicyNumber" class="control-label">Insurance Policy Number</label>
+                <input asp-for="InsurancePolicyNumber" class="form-control" />
+                <span asp-validation-for="InsurancePolicyNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InsuranceProvider" class="control-label">Insurance Provider</label>
+                <input asp-for="InsuranceProvider" class="form-control" />
+                <span asp-validation-for="InsuranceProvider" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrescriptionDate" class="control-label">Prescription Date</label>
+                <input asp-for="PrescriptionDate" class="form-control" />
+                <span asp-validation-for="PrescriptionDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DrugId" class="control-label">Drug Id</label>
+                <input asp-for="DrugId" class="form-control" />
+                <span asp-validation-for="DrugId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DosagePerDay" class="control-label">Dosage Per Day</label>
+                <input asp-for="DosagePerDay" class="form-control" />
+                <span asp-validation-for="DosagePerDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrescriptionCourseInWeeks" class="control-label">Prescription Course In Weeks</label>
+                <input asp-for="PrescriptionCourseInWeeks" class="form-control" />
+                <span asp-validation-for="PrescriptionCourseInWeeks" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DoctorDetails" class="control-label">Doctor Details</label>
+                <input asp-for="DoctorDetails" class="form-control" />
+                <span asp-validation-for="DoctorDetails" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+

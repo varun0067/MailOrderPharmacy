@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "UnSubscription";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("@ViewBag.Message");
+        };
+    </script>
+}
+
+@Html.ActionLink("View All Subscriptions", "GetAllSubscriptions")
+

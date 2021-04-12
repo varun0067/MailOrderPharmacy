@@ -1,0 +1,83 @@
+﻿@using MailOrderMVCConsume.DTO
+
+@model IEnumerable<MailOrderMVCConsume.DTO.RefillOrderDTO>
+
+@{
+    ViewData["Title"] = "RefillStatus";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("@ViewBag.Message");
+        };
+    </script>
+}
+
+<h1>Refill Status</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RefillOrderID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubscriptionID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RefillDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RefillOrderID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubscriptionID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RefillDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Location)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @if (item.Status == RefilStatus.Pending)
+                    {
+                        @Html.ActionLink("Pay For Refill", "ConfirmRefill", new { RefillId = item.RefillOrderID, SubscriptionId = item.SubscriptionID });
+                        @*@Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ })*@
+                        //@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

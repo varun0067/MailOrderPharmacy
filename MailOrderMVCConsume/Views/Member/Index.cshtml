@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h1>Dashboard</h1>
+
+<table cellpadding="30">
+    <tr>
+        <td>
+            @Html.ActionLink("View All Drugs", "AllDrugs", "Drug")
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.ActionLink("Create Prescription", "CreatePrescription", "Subscription")
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.ActionLink("Get All Prescription", "GetAllPrescriptions", "Subscription")
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.ActionLink("Get All Subscription", "GetAllSubscriptions", "Subscription")
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.ActionLink("Get Refill Dues As Of Date", "GetRefillDuesAsOfDate", "Refill")
+        </td>
+    </tr>
+</table>

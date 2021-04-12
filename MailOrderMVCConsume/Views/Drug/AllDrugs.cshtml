@@ -1,0 +1,76 @@
+﻿@model IEnumerable<MailOrderMVCConsume.DTO.DrugDetailsDTO>
+
+@{
+    ViewData["Title"] = "AllDrugs";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>All Drugs Details</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DrugId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DrugName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Manufacturer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ManufactureDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpiryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Composition)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitsInPackage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CostPerPackage)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DrugId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DrugName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manufacturer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufactureDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpiryDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Composition)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitsInPackage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CostPerPackage)
+            </td>
+            @*<td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>*@
+        </tr>
+}
+    </tbody>
+</table>

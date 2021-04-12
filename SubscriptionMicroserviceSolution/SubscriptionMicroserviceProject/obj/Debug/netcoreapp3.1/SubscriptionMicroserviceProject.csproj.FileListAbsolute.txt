@@ -1,0 +1,98 @@
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\appsettings.json
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.exe
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.deps.json
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.runtimeconfig.json
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.runtimeconfig.dev.json
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.dll
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.pdb
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.csprojAssemblyReference.cache
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.AssemblyInfoInputs.cache
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.AssemblyInfo.cs
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.csproj.CoreCompileInputs.cache
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.MvcApplicationPartsAssemblyInfo.cache
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\staticwebassets\SubscriptionMicroserviceProject.StaticWebAssets.Manifest.cache
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\staticwebassets\SubscriptionMicroserviceProject.StaticWebAssets.xml
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\SubscriptionMicroserviceProject.styles.css
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.RazorTargetAssemblyInfo.cache
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.dll
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.pdb
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.genruntimeconfig.cache
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.MvcApplicationPartsAssemblyInfo.cs
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CTS traning\MFPE\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.csproj.CopyComplete
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.pdb
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.exe
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.deps.json
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.runtimeconfig.json
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.pdb
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\staticwebassets\SubscriptionMicroserviceProject.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\staticwebassets\SubscriptionMicroserviceProject.StaticWebAssets.xml
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\SubscriptionMicroserviceProject.styles.css
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.csproj.CopyComplete
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\New folder (2)\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.exe
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.deps.json
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.runtimeconfig.json
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.pdb
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.AssemblyInfo.cs
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\staticwebassets\SubscriptionMicroserviceProject.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\staticwebassets\SubscriptionMicroserviceProject.StaticWebAssets.xml
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\SubscriptionMicroserviceProject.styles.css
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.csproj.CopyComplete
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.dll
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.pdb
+C:\Users\user\Desktop\All MicroServices\SubscriptionMicroserviceSolution\SubscriptionMicroserviceProject\obj\Debug\netcoreapp3.1\SubscriptionMicroserviceProject.genruntimeconfig.cache

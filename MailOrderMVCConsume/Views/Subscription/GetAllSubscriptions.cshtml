@@ -1,0 +1,80 @@
+﻿@model IEnumerable<MailOrderMVCConsume.DTO.SubscriptionDetailsDTO>
+
+@{
+    ViewData["Title"] = "GetAllSubscriptions";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+@if (TempData["Message"] != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+            alert(TempData["Message"]);
+        };
+    </script>
+}
+
+<h1>Get All Subscriptions</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SubscriptionId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubscriptionDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrescriptionId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RefillOccurrence)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubscriptionStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubscriptionId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MemberId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubscriptionDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrescriptionId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RefillOccurrence)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MemberLocation)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubscriptionStatus)
+                </td>
+                <td>
+                    @Html.ActionLink("Refill Status", "RefillStatus", "Refill", new { SubscriptionId = item.SubscriptionId }) |
+                    @Html.ActionLink("Unsubscribe", "UnSubscription","Subscription", new { SubscriptionId = item.SubscriptionId }) @*|
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,79 @@
+﻿@model IEnumerable<MailOrderMVCConsume.DTO.PrescriptionDetailsDTO>
+
+@{
+    ViewData["Title"] = "GetAllPrescriptions";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>Get All Prescriptions</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PrescriptionId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InsurancePolicyNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InsuranceProvider)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrescriptionDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DrugId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DosagePerDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrescriptionCourseInWeeks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DoctorDetails)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrescriptionId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InsurancePolicyNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InsuranceProvider)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrescriptionDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DrugId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DosagePerDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrescriptionCourseInWeeks)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DoctorDetails)
+            </td>
+            <td>
+                @Html.ActionLink("Subscribe", "CreateSubscription",new { PrescriptionId=item.PrescriptionId }) 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

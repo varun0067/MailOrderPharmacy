@@ -1,0 +1,60 @@
+﻿@using MailOrderMVCConsume.DTO
+@model MailOrderMVCConsume.DTO.SubscriptionDTO
+
+@{
+    ViewData["Title"] = "CreateSubscription";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("@ViewBag.Message");
+        };
+    </script>
+}
+<h1>Add Subscription To Prescription</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateSubscription">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MemberId" class="control-label">Member Id</label>
+                <input asp-for="MemberId" class="form-control" value="@ViewBag.Id" disabled />
+                <span asp-validation-for="MemberId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SubscriptionDate" class="control-label">Subscription Date</label>
+                <input asp-for="SubscriptionDate" class="form-control" />
+                <span asp-validation-for="SubscriptionDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrescriptionId" class="control-label">Prescription Id</label>
+                <input asp-for="PrescriptionId" class="form-control" value="@ViewBag.PrescriptionId"/>
+                <span asp-validation-for="PrescriptionId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RefillOccurrence" class="control-label">Refill Occurrence</label>
+                @*<input asp-for="RefillOccurrence" class="form-control" />*@
+
+                @Html.DropDownListFor(m => m.RefillOccurrence,
+                new SelectList(Enum.GetValues(typeof(Occurrence))),
+                "Select Occurrence", new { @class = "form-control" })
+
+                <span asp-validation-for="RefillOccurrence" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberLocation" class="control-label">Member Location</label>
+                <input asp-for="MemberLocation" class="form-control" />
+                <span asp-validation-for="MemberLocation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add Subcription" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
